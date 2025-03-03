@@ -1,0 +1,27 @@
+#include<stdio.h>
+#include<conio.h>
+void neon();
+void main()
+{
+int n;
+clrscr();
+printf("Enter a number");
+scanf("%d",&n);
+neon(n);
+getch();
+}
+void neon(int a)
+{
+int sq,r,s=0;
+sq=a*a;
+while (sq>0)
+{
+r=sq%10;
+s=r+sq;
+sq=sq/10;
+}
+if(s==a)
+printf("It is Neon number");
+else
+printf("It is not a Neon number");
+}
