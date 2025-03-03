@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=myThr
+comment1.params=name
+comment1.target=myThr(java.lang.String)
+comment2.params=
+comment2.target=void\ run()
+numComments=3

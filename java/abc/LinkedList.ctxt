@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=list
+comment10.target=void\ deleteMiddle(Node)
+comment11.params=list
+comment11.target=void\ deleteTail(Node)
+comment2.params=list
+comment2.target=void\ create(Node)
+comment3.params=list
+comment3.target=void\ display(Node)
+comment4.params=list
+comment4.target=void\ search(Node)
+comment5.params=list
+comment5.target=void\ insertBegin(Node)
+comment6.params=list
+comment6.target=void\ insertAfter(Node)
+comment7.params=list
+comment7.target=void\ insertBefore(Node)
+comment8.params=list
+comment8.target=void\ insertTail(Node)
+comment9.params=list
+comment9.target=void\ deleteBegin(Node)
+numComments=12

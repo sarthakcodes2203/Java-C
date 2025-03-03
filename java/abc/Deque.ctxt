@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Deque
+comment1.params=size
+comment1.target=Deque(int)
+comment2.params=newItem
+comment2.target=void\ insertFront(int)
+comment3.params=newItem
+comment3.target=void\ insertRear(int)
+comment4.params=
+comment4.target=void\ deleteFront()
+comment5.params=
+comment5.target=void\ deleteRear()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
